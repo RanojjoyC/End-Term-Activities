@@ -1,2 +1,2 @@
-These are my End Term Activities 
+These are my End Term Activities <br>
 -Ranojjoy Chaudhury
